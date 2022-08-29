@@ -1,8 +1,8 @@
 # Sanduhr
 Ein Projekt zum Malen der Uhrzeit in Sand mithilfe von Arduino ESP8266 und Servos.
 
-**_Work in Progress_**
-
+~~**_Work in Progress_**~~
+**_Finished with best grade possible_**
 ## Simulation
 Um die Funktion der Servoarme und die verwendeten Algorithmen zu testen, wurde eine HTML-Seite mit Canvs und integriertem JavaScript erstellt.
 
